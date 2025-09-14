@@ -6,3 +6,6 @@
 *.user
 *.ncb
 *.opendb
+*.vsidx
+DocumentLayout.json
+.wsuo
