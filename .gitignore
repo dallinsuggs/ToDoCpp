@@ -1,0 +1,8 @@
+# Visual Studio temporary files
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.suo
+*.user
+*.ncb
+*.opendb
