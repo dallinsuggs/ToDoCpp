@@ -9,3 +9,5 @@
 *.vsidx
 DocumentLayout.json
 .wsuo
+/ToDo/.vs/ToDo/v17/Browse.VC.db
+/ToDo/.vs/ToDo/v17/DocumentLayout.backup.json
