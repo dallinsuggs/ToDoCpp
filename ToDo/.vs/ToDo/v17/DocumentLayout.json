@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:Task.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:List.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\ToDo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:FileManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F36FC7C5-4AF1-4A29-A84E-3C8E1D595F0B}|ToDo.vcxproj|solutionrelative:List.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ToDo.cpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\ToDo.cpp",
               "RelativeDocumentMoniker": "ToDo.cpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\ToDo.cpp",
               "RelativeToolTip": "ToDo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T20:22:24.975Z",
               "IsPinned": true,
@@ -56,78 +56,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileManager.hpp",
-              "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.hpp",
-              "RelativeDocumentMoniker": "FileManager.hpp",
-              "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.hpp",
-              "RelativeToolTip": "FileManager.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T22:52:48.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FileManager.cpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.cpp",
               "RelativeDocumentMoniker": "FileManager.cpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.cpp",
               "RelativeToolTip": "FileManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T22:52:41.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "FileManager.hpp",
+              "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.hpp",
+              "RelativeDocumentMoniker": "FileManager.hpp",
+              "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\FileManager.hpp",
+              "RelativeToolTip": "FileManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-14T22:52:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Task.cpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.cpp",
               "RelativeDocumentMoniker": "Task.cpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.cpp",
               "RelativeToolTip": "Task.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T22:52:30.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Task.hpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.hpp",
               "RelativeDocumentMoniker": "Task.hpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\Task.hpp",
               "RelativeToolTip": "Task.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-14T22:52:21.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "List.cpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.cpp",
               "RelativeDocumentMoniker": "List.cpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.cpp",
               "RelativeToolTip": "List.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T22:52:02.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "List.hpp",
               "DocumentMoniker": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.hpp",
               "RelativeDocumentMoniker": "List.hpp",
               "ToolTip": "C:\\CppProjects\\ConsolePrograms\\ToDoCpp\\ToDo\\List.hpp",
               "RelativeToolTip": "List.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-14T22:52:09.964Z",
               "EditorCaption": ""

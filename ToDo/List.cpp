@@ -15,7 +15,13 @@ void List::addTask(const Task& task)
 
 void List::removeTask(int index)
 {
-	tasks.erase(tasks.begin() + index);
+	if (index >= 0 && index < tasks.size()) {
+		tasks.erase(tasks.begin() + index);
+	}
+	else {
+		std::cout << "The entered number is invalid. The corresponding task could not be located.\n";
+	}
+	
 }
 
 void List::setStatus(int index, bool status)
@@ -23,7 +29,7 @@ void List::setStatus(int index, bool status)
 	tasks[index].setStatus(status);
 }
 
-Task List::getTask(int index)
+Task& List::getTask(int index)
 {
 	return tasks[index];
 }
@@ -45,7 +51,7 @@ void List::showTasks()
 		std::cout << "Your to-do list is empty.\n";
 	}
 
-	std::cout << "-------------------------------\n\n";
+	std::cout << "-------------------------------\n\n\n";
 }
 
 bool List::isEmpty()

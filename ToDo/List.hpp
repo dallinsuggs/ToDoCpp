@@ -17,7 +17,7 @@ public:
 	void addTask(const Task& task);
 	void removeTask(int index);
 	void setStatus(int index, bool status);
-	Task getTask(int index);
+	Task& getTask(int index);
 	void showTasks();
 	bool isEmpty();
 	void showOptions();

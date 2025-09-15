@@ -1,8 +1,8 @@
 #include "Task.hpp"
 
 // Constructor definition
-Task::Task(std::string description)
-	: description(description), isComplete(false) {
+Task::Task(std::string description, bool isComplete)
+	: description(description), isComplete(isComplete) {
 }
 
 // Get Description

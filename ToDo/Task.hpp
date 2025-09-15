@@ -12,7 +12,7 @@ private:
 public:
 
 	// Constructor declaration
-	Task(std::string description);
+	Task(std::string description, bool isComplete = false);
 
 	std::string getDescription();
 	bool getStatus();
