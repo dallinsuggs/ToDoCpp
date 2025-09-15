@@ -18,10 +18,10 @@ public:
 	void removeTask(int index);
 	void setStatus(int index, bool status);
 	Task& getTask(int index);
-	void showTasks();
+	void showTasks() const;
 	void setTasks(const std::vector<Task>& newTasks);
 	std::vector<Task>& getTasks();
-	bool isEmpty();
+	bool isEmpty() const;
 	void showOptions();
 };
 

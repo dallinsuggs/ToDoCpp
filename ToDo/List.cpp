@@ -34,7 +34,7 @@ Task& List::getTask(int index)
 	return tasks[index];
 }
 
-void List::showTasks()
+void List::showTasks() const
 {
 	// Create unordered map to tell cout what to print if completed is false or true
 	std::unordered_map<bool, std::string> completedStatus = {
@@ -64,7 +64,7 @@ std::vector<Task>& List::getTasks()
 	return tasks;
 }
 
-bool List::isEmpty()
+bool List::isEmpty() const
 {
 	if (tasks.size() == 0) {
 		return true;

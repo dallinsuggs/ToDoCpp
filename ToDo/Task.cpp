@@ -6,13 +6,13 @@ Task::Task(std::string description, bool isComplete)
 }
 
 // Get Description
-std::string Task::getDescription()
+std::string Task::getDescription() const
 {
 	return description;
 }
 
 // Get completion status
-bool Task::getStatus()
+bool Task::getStatus() const
 {
 	return isComplete;
 }
