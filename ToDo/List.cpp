@@ -54,6 +54,16 @@ void List::showTasks()
 	std::cout << "-------------------------------\n\n\n";
 }
 
+void List::setTasks(const std::vector<Task>& newTasks)
+{
+	tasks = newTasks;
+}
+
+std::vector<Task>& List::getTasks()
+{
+	return tasks;
+}
+
 bool List::isEmpty()
 {
 	if (tasks.size() == 0) {

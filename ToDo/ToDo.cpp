@@ -4,6 +4,7 @@
 
 #include "Task.hpp"
 #include "List.hpp"
+#include "FileManager.hpp"
 
 
 int getIntInput() {
@@ -23,17 +24,19 @@ int getIntInput() {
 int main() {
 
 	// Initialize variables
+	FileManager myFileManager;
 	List myList;
 	bool running = true;
+	const std::string myFileName = "toDoList.txt";
 	std::string input;
 
-	// Main program loop
-	while (true) {
+	// If the tasks loader loads something with a length greater than 0, assign the tasks of myList to what was loaded
+	if (myFileManager.loadTasks(myFileName).size() > 0) {
+		myList.setTasks(myFileManager.loadTasks(myFileName));
+	}
 
-		// If running is false quit program
-		if (running == false) {
-			break;
-		}
+	// Main program loop
+	while (running) {
 
 		// Display to-do list, then list user options
 		myList.showTasks();
@@ -116,5 +119,7 @@ int main() {
 
 		}
 	}
+
+	myFileManager.saveTasks(myList.getTasks(), myFileName);
 
 }
