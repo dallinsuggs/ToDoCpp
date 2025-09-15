@@ -126,6 +126,7 @@
     <ClCompile Include="FileManager.cpp" />
     <ClCompile Include="List.cpp" />
     <ClCompile Include="Task.cpp" />
+    <ClCompile Include="tests.cpp" />
     <ClCompile Include="ToDo.cpp" />
   </ItemGroup>
   <ItemGroup>

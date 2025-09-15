@@ -1,3 +1,0 @@
-0|Sleep
-1|Poop
-0|Eat
